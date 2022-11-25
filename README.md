@@ -1,2 +1,3 @@
 # yoga-trainer
-A dynamic website to train yoga
+With the need to be fit and healthy on the rise today, Yoga-Tracker proves to be a valuable solution.
+
