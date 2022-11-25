@@ -1,3 +1,4 @@
 # yoga-trainer
-With the need to be fit and healthy on the rise today, Yoga-Tracker proves to be a valuable solution.
+
+# Yoga is the go to solution for the rising problem of healthy life style.
 
